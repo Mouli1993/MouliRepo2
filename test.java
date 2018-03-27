@@ -114,7 +114,7 @@ public class LambdaExpressions {
 		
 		furtherFiltered.forEach(p -> System.out.println("The names of the people who has EMPLOYEE NUMBER greater than " +value+ " are " +p));
 		
-		System.out.println("************* Usage of STREAM API JAVA 8 Fucntion - STREAM MAP, COLLECTORS #### END **********************");
+		System.out.println("*************USAGE AGAIN  Usage of STREAM API JAVA 8 Fucntion - STREAM MAP, COLLECTORS #### END **********************");
     }
   
   
